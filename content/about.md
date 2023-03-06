@@ -1,5 +1,5 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, currently at Bookworm"
+title: "I'm Brandon Mitchell, a software engineer, part-time hacker, and cat-dad"
 meta_title: "About"
 image: "/images/author.jpg"
 layout: "about"
@@ -12,6 +12,6 @@ social:
   instagram: "https://www.instagram.com"
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget.
+I am currently a Software Engineer II at Starbucks. I have experience building scalable enterprise systems in .NET core, CI/CD experience in Azure DevOps & Jenkins, Cloud experience in Azure, and am a novice hacker. I have built a few companies, most recently working on consulting and technical integrations for home service companies.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis.
+This is my second brain. A place I can dump my thoughts and hopefully provide value to peers who take their time to read through it. Thank you for stopping by!

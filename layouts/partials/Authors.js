@@ -12,8 +12,8 @@ const Authors = ({ authors }) => {
               <Image
                 src={author.frontmatter.image}
                 alt={author.frontmatter.title}
-                height="150px"
-                width="150px"
+                height="250"
+                width="250"
                 className="rounded-lg"
               />
             </div>
