@@ -7,6 +7,10 @@ import TagManager from "react-gtm-module";
 import "styles/style.scss";
 
 const App = ({ Component, pageProps }) => {
+  // console.log(pageProps)
+  if (pageProps.posts) {
+    pageProps.posts.sort((a, b) => new Date(b.frontmatter.date) - new Date(a.frontmatter.date));
+  }
   // import google font css
   const pf = theme.fonts.font_family.primary;
   const sf = theme.fonts.font_family.secondary;
