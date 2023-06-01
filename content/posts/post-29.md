@@ -6,7 +6,7 @@ image: "/images/posts/01.jpg"
 categories: ["workout", "fitness", "personal"]
 authors: ["Brandon Mitchell"]
 tags: ["routine", "career", "software", "determination"]
-draft: false
+draft: true
 ---
 
 
