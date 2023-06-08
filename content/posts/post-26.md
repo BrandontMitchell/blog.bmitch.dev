@@ -3,9 +3,9 @@ title: "Coder - Self-hosted dev environments"
 description: ""
 date: 2023-04-28T05:00:00Z
 image: "/images/posts/26.jpg"
-categories: ["workout", "fitness", "personal"]
+categories: ["tech", "software", "personal"]
 authors: ["Brandon Mitchell"]
-tags: ["routine", "career", "software", "determination"]
+tags: ["tech", "fridays", "career", "software", "determination"]
 draft: false
 ---
 
